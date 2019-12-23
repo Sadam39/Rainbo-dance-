@@ -1,4 +1,6 @@
 Turn right,
 Turn Left,
 Shuffle for two minutes ,
-Repeat the above steps
+Repeat the above steps, 
+
+someting is better than nothing 
